@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crl:home|Door43 (crl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crl|d43-crl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crl/archive/master.zip|d43-crl.zip]]
+
+**Recent Changes**
+{{changes>ns = crl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crl|Ethnologue data]]
+
